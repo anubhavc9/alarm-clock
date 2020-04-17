@@ -1,5 +1,5 @@
 # alarm-clock
-A basic simulation of an alarm clock in Python
+A simulation of a basic alarm clock in Python
 
 # USAGE
 Run from command prompt
